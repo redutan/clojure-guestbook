@@ -1,0 +1,4 @@
+15-Nov-15 23:20:54 redutan-MacBook-Air.local INFO [guestbook.handler] - 
+-=[guestbook started successfully using the development profile]=-
+15-Nov-15 23:20:55 redutan-MacBook-Air.local INFO [slf4j-timbre.adapter] -  Registered web context /
+15-Nov-15 23:20:55 redutan-MacBook-Air.local INFO [guestbook.core] - server started on port: 3000
